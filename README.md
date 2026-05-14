@@ -2,10 +2,10 @@
 
 <h4>👋  I am currently a student of microcomputer systems and networks.
 I plan to study programming because it is a world that seems very interesting to me.
-  
+<br><br>
 In this repository I will put all my current and future projects.
 I hope to improve little by little and enjoy the road, above all.
-
+<br><br>
 UPDATE (push mode): YES, I ended up studying web application development and here I am learning. </h4>
 
 
